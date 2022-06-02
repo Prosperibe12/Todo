@@ -1,0 +1,10 @@
+body{
+    background: url(/assets/img/vintage.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow-x: hidden;
+    width: 100%;
+}
+.navbar{
+    position: sticky;
+}
